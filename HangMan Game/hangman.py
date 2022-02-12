@@ -1,15 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Hangman+
-# Purpose:     V1.1 Code cleanup
-#
-# Author:      stuartlaxton
-#
-# Created:     10/05/2012
-# Copyright:   (c) stuartlaxton 2012
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-#!/usr/bin/env python
-
 import random
 import pygame, sys, time
 from pygame.locals import *
