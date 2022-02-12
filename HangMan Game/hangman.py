@@ -10,7 +10,7 @@ mainClock = pygame.time.Clock()
 WINDOWWIDTH = 800
 WINDOWHEIGHT = 480
 windowSurface = pygame.display.set_mode((WINDOWWIDTH, WINDOWHEIGHT),0,32)
-pygame.display.set_caption('Welcome to HANGMAN+')
+pygame.display.set_caption('WELCOME TO HANGMAN GAME')
 
 # set up the colors
 BLACK = (0, 0, 0)
